@@ -38,9 +38,3 @@ The default database settings in `config.php` are:
 - Username: `root`
 - Password: empty
 - Database: `study_planner`
-
-## Notes
-
-The application creates the `uploads` folder automatically when a user uploads a profile picture, so the folder does not need to be included in the repository.
-
-Do not upload real hosting passwords or private database credentials to GitHub.
