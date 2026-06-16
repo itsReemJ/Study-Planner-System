@@ -1,7 +1,7 @@
 # Study Planner System
 
-<img width="1919" height="1022" alt="Screenshot 2026-05-12 225032" src="https://github.com/user-attachments/assets/7833d906-a0bf-4e60-a467-b29468db2fa4" />
 A PHP and MySQL web application that helps students manage subjects, tasks, deadlines, and profile information.
+<img width="1919" height="1022" alt="Screenshot 2026-05-12 225032" src="https://github.com/user-attachments/assets/7833d906-a0bf-4e60-a467-b29468db2fa4" />
 
 ## Features
 
